@@ -15,10 +15,10 @@ The one-step transition probability matrix, P, is given by:
 P =
 | r   w   e   s |
 |---|---|---|---|
-| 0.5  0.3  0   0.2 |
+| 0.5  0.3  0.0  0.2 |
 | 0.2  0.5  0.1  0.2 |
 | 0.1  0.3  0.3  0.3 |
-| 0    0.2  0.3  0.5 |
+| 0.0  0.2  0.3  0.5 |
 ```
 
 ### Questions and Answers
