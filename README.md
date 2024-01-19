@@ -3,16 +3,6 @@
 ## Markov Chain Analysis
 This README provides an analysis of an assignment that studies the writing process in four stages: read (r), write (w), e-mail (e), and surf (s). The process is modeled as a finite state discrete time Markov chain.
 
-## Instructions
-
-- Use statistical software R/Python for your codes.
-- Only basic built-in functions available in R/Python are allowed.
-- In each question, show the simulations with relevant graphs.
-- Due date is October 31, 2023 (11.59 p.m. IST). No late assignments will be accepted.
-- Submit all of your work which includes the codes, results, graphs, and reports.
-
----
-
 ## Question 1: Markov Chain Analysis (10 Marks)
 
 ### Overview
