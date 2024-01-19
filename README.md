@@ -1,7 +1,7 @@
 # Markov Chain and 1-D Random Walk
 
 ## Markov Chain Analysis
-This README provides an analysis of a paper that studies the writing process in four stages: read (r), write (w), e-mail (e), and surf (s). The process is modeled as a finite state discrete time Markov chain.
+This README provides an analysis of an assignment that studies the writing process in four stages: read (r), write (w), e-mail (e), and surf (s). The process is modeled as a finite state discrete time Markov chain.
 
 ## Instructions
 
