@@ -264,3 +264,21 @@ The average value of the Final Positions turns out to be = 300, give-or-take (±
 
 **Conclusion:**
 The code provides a comprehensive analysis of 1-D random walks, demonstrating how different probabilities of left and right steps influence the behavior of the random walker. It also showcases the use of multiple simulations to gather statistics about the final positions.
+
+
+## Screenshots
+
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q1/1.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q1/2.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q1/3.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q1/4.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q1/5.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q1/6.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q1/7.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q2/1.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q2/2.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q2/3.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q2/4.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q2/5.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q2/6.png)
+![Screenshots](https://github.com/nikhil21268/Random-Walk-using-Markov-Chains/blob/main/Plots/Q2/7.png)
